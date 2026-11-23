@@ -193,6 +193,7 @@ Through this project, I gained practical experience in:
 - Extract individual book categories dynamically.
 - Scrape additional product details from individual product pages.
 - Perform exploratory data analysis (EDA).
+- Perform Data VisualiZation.
 
 ⚠️ Disclaimer
 
