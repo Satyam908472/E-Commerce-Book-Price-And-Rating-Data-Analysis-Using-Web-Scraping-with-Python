@@ -193,10 +193,6 @@ Through this project, I gained practical experience in:
 - Extract individual book categories dynamically.
 - Scrape additional product details from individual product pages.
 - Perform exploratory data analysis (EDA).
-- Create interactive dashboards using Power BI.
-- Analyze price distribution and customer ratings.
-- Store scraped data in an SQLite database.
-- Automate periodic data collection.
 
 ⚠️ Disclaimer
 
